@@ -1,0 +1,16 @@
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Properties.Resources.resources
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.GenerateResource.cache
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\bin\Debug\cadastrar.mdf
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\bin\Debug\cadastrar_log.ldf
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Cliente.resources
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Funcionario.resources
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Login.resources
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Fornecedor.resources
+C:\Users\corlos eduardo\source\repos\Exercicio4\Exercicio4\obj\Debug\Exercicio4.TelaInicial.resources
